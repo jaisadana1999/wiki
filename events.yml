@@ -3,6 +3,12 @@ extra:
     - name: Summer 2020
       past: false
       hackathons:
+         - name: Hacktober Hacks
+          website: https://www.hacktoberhacks.xyx
+          location: Global (Online)
+          when: 17th-18th October 2020
+          attendees: 500
+          digital: true
         - name: STEAM AiHack
           website: https://hack.innovationfest.co.uk/AiHack/
           location: Birmingham (Online)
